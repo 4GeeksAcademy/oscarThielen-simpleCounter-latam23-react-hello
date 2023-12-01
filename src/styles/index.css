@@ -1,12 +1,6 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.timer .count {
+    font-size: 80px; /* Aumenta el tamaño de fuente para los dígitos */
+    color: white; /* Cambia el color de fuente a blanco */
+    background-color: #800020; /* Cambia el color de fondo a vinotinto */
+    padding: 10px; /* Agrega un espacio interno alrededor de los dígitos */
+  }
